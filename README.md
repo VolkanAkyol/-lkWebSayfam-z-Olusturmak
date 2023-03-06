@@ -1,2 +1,2 @@
-# -lkWebSayfam-z-Olusturmak
+# ilkWebSayfamiziOlusturmak
 Kodluyoruz ilk web sayfası
